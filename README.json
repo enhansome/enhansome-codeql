@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:01:40Z",
+            "last_commit": "2026-08-13T07:54:28Z",
             "owner": "skills",
             "repo": "secure-code-game",
             "stars": 2802
@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T04:35:43Z",
+            "last_commit": "2026-08-13T19:32:44Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22162
+            "stars": 22165
           }
         },
         {
@@ -290,7 +290,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T07:38:45Z",
+            "last_commit": "2026-08-13T08:39:59Z",
             "owner": "GitHubSecurityLab",
             "repo": "seclab-taskflow-agent",
             "stars": 221
@@ -659,7 +659,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T15:28:26Z",
+            "last_commit": "2026-08-13T10:39:18Z",
             "owner": "advanced-security",
             "repo": "codeql-bundle",
             "stars": 14
@@ -733,10 +733,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-12T16:20:28Z",
+            "last_commit": "2026-08-13T15:54:24Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9931
+            "stars": 9934
           }
         },
         {
@@ -801,7 +801,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T20:10:42Z",
+            "last_commit": "2026-08-13T19:33:01Z",
             "owner": "microsoft",
             "repo": "codeql",
             "stars": 27
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:39:36.033Z",
+    "last_updated": "2026-08-13T19:34:02.052Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
