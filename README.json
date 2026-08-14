@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T07:54:28Z",
             "owner": "skills",
             "repo": "secure-code-game",
-            "stars": 2802
+            "stars": 2803
           }
         },
         {
@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T19:32:44Z",
+            "last_commit": "2026-08-14T19:28:29Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22165
@@ -532,7 +532,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T01:23:20Z",
+            "last_commit": "2026-08-14T00:35:03Z",
             "owner": "advanced-security",
             "repo": "sample-javascript-monorepo",
             "stars": 0
@@ -659,7 +659,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:39:18Z",
+            "last_commit": "2026-08-13T23:09:59Z",
             "owner": "advanced-security",
             "repo": "codeql-bundle",
             "stars": 14
@@ -733,10 +733,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-13T15:54:24Z",
+            "last_commit": "2026-08-14T17:38:47Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9934
+            "stars": 9939
           }
         },
         {
@@ -801,7 +801,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T19:33:01Z",
+            "last_commit": "2026-08-13T20:07:54Z",
             "owner": "microsoft",
             "repo": "codeql",
             "stars": 27
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:34:02.052Z",
+    "last_updated": "2026-08-14T19:28:29.746Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",

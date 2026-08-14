@@ -19,7 +19,7 @@ Resources for learning CodeQL, from beginner guides to official documentation.
 
 ### CodeQL Getting Started and Guides (along side the [official docs](https://codeql.github.com/docs/))
 
-* [skills/secure-code-game](https://github.com/skills/secure-code-game) ⭐ 2,802 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - Hands-on security training game where you identify and fix vulnerabilities in real code across multiple programming languages
+* [skills/secure-code-game](https://github.com/skills/secure-code-game) ⭐ 2,803 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - Hands-on security training game where you identify and fix vulnerabilities in real code across multiple programming languages
 * [skills/introduction-to-codeql](https://github.com/skills/introduction-to-codeql) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-06-24 - Interactive GitHub Skills course teaching how to enable code scanning, review alerts, and fix vulnerabilities using CodeQL
 * [testing-handbook](https://github.com/trailofbits/testing-handbook) ⭐ 134 | 🐛 20 | 🌐 HTML | 📅 2026-07-28 - The [Trail of Bits Testing Handbook](https://appsec.guide/docs/static-analysis/codeql/) is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools used at Trail of Bits.
 * [CodeQL Learning Catalog](https://codeql-learning-catalog.github.com/) - The CodeQL Learning Catalog is a resource dedicated providing detailed CodeQL learning resources. The Catalog contains workshops, recordings, and learning paths for improving your knowledge and skill in using CodeQL.
@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,165 | 🐛 26 | 🌐 Ruby | 📅 2026-08-13 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,165 | 🐛 38 | 🌐 Ruby | 📅 2026-08-14 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 43 | 🐛 4 | 🌐 Shell | 📅 2026-08-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -120,7 +120,7 @@ Tools, actions, and examples for integrating CodeQL into your automation pipelin
 
 * [dassencio/parallel-code-scanning](https://github.com/dassencio/parallel-code-scanning) ⭐ 16 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-14 - An example of a GitHub Actions workflow showing how code scanning with CodeQL can be parallelized on monorepos.
 * [thedave42/multi-lang-monorepo](https://github.com/thedave42/multi-lang-monorepo) ⭐ 1 | 🐛 1 | 🌐 C# | 📅 2023-09-27 - A repo that demonstrates using an Actions workflow Job matrix to run parallel CodeQL scans on applications in a monorepo.
-* [advanced-security/sample-javascript-monorepo](https://github.com/advanced-security/sample-javascript-monorepo) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-07 - Detached fork of babel/babel to use as a TypeScript monorepo sample with 150+ packages using the [monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-17
+* [advanced-security/sample-javascript-monorepo](https://github.com/advanced-security/sample-javascript-monorepo) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-14 - Detached fork of babel/babel to use as a TypeScript monorepo sample with 150+ packages using the [monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-17
 
 ### CodeQL Enforcement
 
@@ -145,7 +145,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ### CodeQL Tooling (Bundles + Packs)
 
 * [advanced-security/codeql-bundle-action](https://github.com/advanced-security/codeql-bundle-action) ⭐ 27 | 🐛 3 | 🌐 Shell | 📅 2026-08-03 - Action to retrofit a CodeQL bundle with additional queries, libraries, and customizations
-* [rvermeulen/codeql-bundle](https://github.com/rvermeulen/codeql-bundle) ⭐ 14 | 🐛 9 | 🌐 Python | 📅 2026-08-13 - CLI to build a custom CodeQL bundle
+* [rvermeulen/codeql-bundle](https://github.com/rvermeulen/codeql-bundle) ⭐ 14 | 🐛 8 | 🌐 Python | 📅 2026-08-13 - CLI to build a custom CodeQL bundle
 * [zbazztian/gh-tailor](https://github.com/zbazztian/gh-tailor) ⚠️ Archived - A tool for customizing CodeQL packs.
 
 ### CodeQL Libraries & Utilities
@@ -165,7 +165,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,934 | 🐛 1,443 | 🌐 CodeQL | 📅 2026-08-13 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,939 | 🐛 1,440 | 🌐 CodeQL | 📅 2026-08-14 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -192,8 +192,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,334 | 🐛 99 | 📅 2026-06-30
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,733 | 🐛 100 | 📅 2026-06-30
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
