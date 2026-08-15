@@ -19,7 +19,7 @@ Resources for learning CodeQL, from beginner guides to official documentation.
 
 ### CodeQL Getting Started and Guides (along side the [official docs](https://codeql.github.com/docs/))
 
-* [skills/secure-code-game](https://github.com/skills/secure-code-game) ⭐ 2,803 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - Hands-on security training game where you identify and fix vulnerabilities in real code across multiple programming languages
+* [skills/secure-code-game](https://github.com/skills/secure-code-game) ⭐ 2,808 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - Hands-on security training game where you identify and fix vulnerabilities in real code across multiple programming languages
 * [skills/introduction-to-codeql](https://github.com/skills/introduction-to-codeql) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-06-24 - Interactive GitHub Skills course teaching how to enable code scanning, review alerts, and fix vulnerabilities using CodeQL
 * [testing-handbook](https://github.com/trailofbits/testing-handbook) ⭐ 134 | 🐛 20 | 🌐 HTML | 📅 2026-07-28 - The [Trail of Bits Testing Handbook](https://appsec.guide/docs/static-analysis/codeql/) is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools used at Trail of Bits.
 * [CodeQL Learning Catalog](https://codeql-learning-catalog.github.com/) - The CodeQL Learning Catalog is a resource dedicated providing detailed CodeQL learning resources. The Catalog contains workshops, recordings, and learning paths for improving your knowledge and skill in using CodeQL.
@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,165 | 🐛 38 | 🌐 Ruby | 📅 2026-08-14 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,166 | 🐛 33 | 🌐 Ruby | 📅 2026-08-15 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 43 | 🐛 4 | 🌐 Shell | 📅 2026-08-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -165,7 +165,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,939 | 🐛 1,440 | 🌐 CodeQL | 📅 2026-08-14 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,944 | 🐛 1,441 | 🌐 CodeQL | 📅 2026-08-14 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -176,7 +176,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 * [microsoft/codeql](https://github.com/microsoft/codeql/blob/main/powershell/README.md) ⭐ 27 | 🐛 41 | 🌐 C# | 📅 2026-08-13 - Microsoft CodeQL Powershell extractor, sample queries, and tools
 * [codeql-kaleidoscope](https://github.com/aibaars/codeql-kaleidoscope/) ⭐ 11 | 🐛 4 | 🌐 CodeQL | 📅 2024-07-31 - CodeQL for LLVM Kaleidoscope ([AST/CFG/SSA/Dataflow in separate commits](https://github.com/aibaars/codeql-kaleidoscope/commits/main/) ⭐ 11 | 🐛 4 | 🌐 CodeQL | 📅 2024-07-31)
 * [krisds/cobol-codeql](https://github.com/krisds/cobol-codeql) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2020-02-02 - Archive of CodeQL support for COBOL (This is a one-off release of code for supporting analysis of COBOL programs using QL. The release of this code does not imply any intention to support it in the future.)
-* [advanced-security/codeql-sap-js](https://github.com/advanced-security/codeql-sap-js) ⭐ 8 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 - CodeQL extractor/queries/models for SAP JavaScript frameworks CAP, UI5 and XSJS
+* [advanced-security/codeql-sap-js](https://github.com/advanced-security/codeql-sap-js) ⭐ 8 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-15 - CodeQL extractor/queries/models for SAP JavaScript frameworks CAP, UI5 and XSJS
 * [codeql-extractor-bicep](https://github.com/GitHubSecurityLab/codeql-extractor-bicep) ⭐ 2 | 🐛 2 | 🌐 CodeQL | 📅 2025-09-08 - CodeQL Extractor for Bicep Configurations
 * [advanced-security/codeql-extractor-action](https://github.com/advanced-security/codeql-extractor-action) ⭐ 2 | 🐛 9 | 🌐 Rust | 📅 2026-07-29 - specify a CodeQL extractor to be used in your workflows as an author of an Extractor.
 
@@ -192,8 +192,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,733 | 🐛 100 | 📅 2026-06-30
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,079 | 🐛 100 | 📅 2026-06-30
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

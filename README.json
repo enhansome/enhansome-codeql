@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T07:54:28Z",
             "owner": "skills",
             "repo": "secure-code-game",
-            "stars": 2803
+            "stars": 2808
           }
         },
         {
@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T19:28:29Z",
+            "last_commit": "2026-08-15T17:25:29Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22165
+            "stars": 22166
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2026-08-14T17:38:47Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9939
+            "stars": 9944
           }
         },
         {
@@ -843,7 +843,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:09:03Z",
+            "last_commit": "2026-08-15T02:12:22Z",
             "owner": "advanced-security",
             "repo": "codeql-sap-js",
             "stars": 8
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:28:29.746Z",
+    "last_updated": "2026-08-15T18:55:56.856Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
