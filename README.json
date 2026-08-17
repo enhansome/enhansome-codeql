@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T18:50:45Z",
+            "last_commit": "2026-08-17T19:06:46Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22170
@@ -290,7 +290,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:39:59Z",
+            "last_commit": "2026-08-17T06:50:31Z",
             "owner": "GitHubSecurityLab",
             "repo": "seclab-taskflow-agent",
             "stars": 221
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-10T20:29:09Z",
+            "last_commit": "2026-08-17T04:36:46Z",
             "owner": "advanced-security",
             "repo": "codeql-development-template",
             "stars": 11
@@ -347,7 +347,7 @@
             "last_commit": "2026-06-22T15:45:22Z",
             "owner": "MichaelCurrin",
             "repo": "badge-generator",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -591,7 +591,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-07T08:27:54Z",
+            "last_commit": "2026-08-17T18:07:23Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -733,10 +733,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-14T17:38:47Z",
+            "last_commit": "2026-08-17T19:07:24Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9945
+            "stars": 9958
           }
         },
         {
@@ -843,7 +843,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T01:10:05Z",
+            "last_commit": "2026-08-17T12:48:26Z",
             "owner": "advanced-security",
             "repo": "codeql-sap-js",
             "stars": 8
@@ -891,7 +891,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-07T08:27:54Z",
+            "last_commit": "2026-08-17T18:07:23Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -905,7 +905,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T21:45:31Z",
+            "last_commit": "2026-08-17T17:39:34Z",
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80
@@ -919,7 +919,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T21:45:31Z",
+            "last_commit": "2026-08-17T17:39:34Z",
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:55:52.749Z",
+    "last_updated": "2026-08-17T19:07:27.027Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
