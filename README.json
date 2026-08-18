@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T19:06:46Z",
+            "last_commit": "2026-08-18T19:06:40Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22170
+            "stars": 22169
           }
         },
         {
@@ -283,7 +283,7 @@
                 "last_commit": "2026-08-11T17:35:12Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflows",
-                "stars": 75
+                "stars": 76
               }
             }
           ],
@@ -591,7 +591,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-17T18:07:23Z",
+            "last_commit": "2026-08-18T15:51:12Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T20:15:24Z",
+            "last_commit": "2026-08-18T13:59:52Z",
             "owner": "GitHubSecurityLab",
             "repo": "CodeQL-Community-Packs",
             "stars": 215
@@ -693,7 +693,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T20:15:24Z",
+            "last_commit": "2026-08-18T13:59:52Z",
             "owner": "GitHubSecurityLab",
             "repo": "CodeQL-Community-Packs",
             "stars": 215
@@ -733,10 +733,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-17T19:07:24Z",
+            "last_commit": "2026-08-18T13:36:48Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9958
+            "stars": 9968
           }
         },
         {
@@ -801,7 +801,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T20:07:54Z",
+            "last_commit": "2026-08-18T16:03:13Z",
             "owner": "microsoft",
             "repo": "codeql",
             "stars": 27
@@ -891,7 +891,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-08-17T18:07:23Z",
+            "last_commit": "2026-08-18T15:51:12Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:07:27.027Z",
+    "last_updated": "2026-08-18T19:06:52.519Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
