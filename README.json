@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T11:21:51Z",
+                "last_commit": "2026-08-19T19:00:38Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
                 "stars": 22168
@@ -467,7 +467,7 @@
                 "archived": false,
                 "id": 404011928,
                 "language": "Python",
-                "last_commit": "2026-07-29T14:05:40Z",
+                "last_commit": "2026-08-19T14:04:42Z",
                 "owner": "advanced-security",
                 "repo": "sarif-toolkit",
                 "stars": 4
@@ -699,7 +699,7 @@
                 "last_commit": "2026-08-13T23:09:59Z",
                 "owner": "advanced-security",
                 "repo": "codeql-bundle",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -770,10 +770,10 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-19T11:43:34Z",
+                "last_commit": "2026-08-19T17:32:41Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 9973
+                "stars": 9978
               }
             },
             {
@@ -837,7 +837,7 @@
                 "archived": false,
                 "id": 566523451,
                 "language": "C#",
-                "last_commit": "2026-08-18T16:03:13Z",
+                "last_commit": "2026-08-19T16:54:58Z",
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:46.827Z",
+    "last_updated": "2026-08-19T19:02:23.776Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
