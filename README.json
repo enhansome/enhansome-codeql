@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T07:54:28Z",
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2811
+                "stars": 2812
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-24T17:16:32Z",
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 144
+                "stars": 145
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-28T12:49:45Z",
                 "owner": "trailofbits",
                 "repo": "testing-handbook",
-                "stars": 134
+                "stars": 133
               }
             }
           ],
@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-20T19:09:57Z",
+                "last_commit": "2026-08-21T19:04:00Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22171
+                "stars": 22173
               }
             },
             {
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 1052954255,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:50:31Z",
+                "last_commit": "2026-08-21T10:54:40Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
                 "stars": 222
@@ -564,7 +564,7 @@
                 "archived": false,
                 "id": 878571502,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T00:35:03Z",
+                "last_commit": "2026-08-21T00:22:20Z",
                 "owner": "advanced-security",
                 "repo": "sample-javascript-monorepo",
                 "stars": 0
@@ -770,10 +770,10 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-20T17:07:35Z",
+                "last_commit": "2026-08-21T18:22:50Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 9983
+                "stars": 9994
               }
             },
             {
@@ -837,7 +837,7 @@
                 "archived": false,
                 "id": 566523451,
                 "language": "C#",
-                "last_commit": "2026-08-19T20:27:41Z",
+                "last_commit": "2026-08-21T18:14:46Z",
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:09:58.411Z",
+    "last_updated": "2026-08-21T19:06:16.879Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
