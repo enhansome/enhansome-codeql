@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,173 | 🐛 43 | 🌐 Ruby | 📅 2026-08-21 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,172 | 🐛 35 | 🌐 Ruby | 📅 2026-08-22 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 43 | 🐛 4 | 🌐 Shell | 📅 2026-08-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -135,9 +135,9 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL [Packs](https://docs.github.com/en/code-security/codeql-cli/using-the-codeql-cli/publishing-and-using-codeql-packs)
 
-* [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards) ⭐ 222 | 🐛 139 | 🌐 CodeQL | 📅 2026-08-19 - This repository contains CodeQL queries and libraries which support various Coding Standards. (AUTOSAR C++, CERT-C++,CERT C, MISRA C)
+* [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards) ⭐ 223 | 🐛 134 | 🌐 CodeQL | 📅 2026-08-22 - This repository contains CodeQL queries and libraries which support various Coding Standards. (AUTOSAR C++, CERT-C++,CERT C, MISRA C)
 * [GitHubSecurityLab/CodeQL-Community-Packs](https://github.com/GitHubSecurityLab/CodeQL-Community-Packs) ⭐ 216 | 🐛 15 | 🌐 Java | 📅 2026-08-18 - Collection of community-driven CodeQL query, library and extension [packages](https://github.com/orgs/githubsecuritylab/packages). Blog: [Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/)
-* [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries) ⭐ 171 | 🐛 9 | 🌐 CodeQL | 📅 2026-07-13 - CodeQL queries and [packs](https://github.com/orgs/trailofbits/packages?ecosystem=all\&q=repo%3Atrailofbits%2Fcodeql-queries) developed by Trail of Bits
+* [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries) ⭐ 172 | 🐛 9 | 🌐 CodeQL | 📅 2026-07-13 - CodeQL queries and [packs](https://github.com/orgs/trailofbits/packages?ecosystem=all\&q=repo%3Atrailofbits%2Fcodeql-queries) developed by Trail of Bits
 * [GitHub-maintained packages](https://github.com/orgs/codeql/packages)
 * [green-code-initiative/green-codeql-queries](Green-codeql-queries) - This repository contains CodeQL queries to help build sustenable code.
 * [chromium/chromium](https://source.chromium.org/chromium/chromium/src/+/main:tools/codeql/queries/;l=1) - [Finding Bugs in Chrome with CodeQL](https://bughunters.google.com/blog/finding-bugs-in-chrome-with-codeql)
@@ -165,7 +165,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,994 | 🐛 1,447 | 🌐 CodeQL | 📅 2026-08-21 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 9,994 | 🐛 1,450 | 🌐 CodeQL | 📅 2026-08-21 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -182,7 +182,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ## Troubleshooting
 
-* [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards/blob/main/docs/user_manual.md#hazard-and-risk-analysis) ⭐ 222 | 🐛 139 | 🌐 CodeQL | 📅 2026-08-19 - CodeQL Coding Standards - Hazard and risk analysis
+* [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards/blob/main/docs/user_manual.md#hazard-and-risk-analysis) ⭐ 223 | 🐛 134 | 🌐 CodeQL | 📅 2026-08-22 - CodeQL Coding Standards - Hazard and risk analysis
 * [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 8 | 🌐 Shell | 📅 2026-08-17 - CodeQL Build Failure Troubleshooting
 * [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 8 | 🌐 Shell | 📅 2026-08-17 - GitHub SARIF Upload Troubleshooting
 
@@ -192,8 +192,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 498,590 | 🐛 105 | 📅 2026-08-21
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 498,928 | 🐛 106 | 📅 2026-08-21
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

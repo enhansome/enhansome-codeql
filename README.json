@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T19:04:00Z",
+                "last_commit": "2026-08-22T18:55:31Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22173
+                "stars": 22172
               }
             },
             {
@@ -629,10 +629,10 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-19T10:07:12Z",
+                "last_commit": "2026-08-22T12:18:47Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 222
+                "stars": 223
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-07-13T19:13:38Z",
                 "owner": "trailofbits",
                 "repo": "codeql-queries",
-                "stars": 171
+                "stars": 172
               }
             }
           ],
@@ -837,7 +837,7 @@
                 "archived": false,
                 "id": 566523451,
                 "language": "C#",
-                "last_commit": "2026-08-21T18:14:46Z",
+                "last_commit": "2026-08-21T19:43:13Z",
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
@@ -938,10 +938,10 @@
             "archived": false,
             "id": 513154248,
             "language": "CodeQL",
-            "last_commit": "2026-08-19T10:07:12Z",
+            "last_commit": "2026-08-22T12:18:47Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:06:16.879Z",
+    "last_updated": "2026-08-22T18:57:54.922Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
