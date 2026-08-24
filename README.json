@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T07:54:28Z",
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2812
+                "stars": 2813
               }
             },
             {
@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T18:56:55Z",
+                "last_commit": "2026-08-24T14:40:09Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
                 "stars": 22171
@@ -281,6 +281,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "psastras/sarif-rs-sarif-fmt",
+              "description": "This crate provides a command line tool to pretty print SARIF files to easy human readable output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347270006,
+                "language": "Rust",
+                "last_commit": "2026-08-17T19:48:58Z",
+                "owner": "psastras",
+                "repo": "sarif-rs",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CodeQL SARIF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GitHubSecurityLab/seclab-taskflow-agent",
               "description": "The GitHub Security Lab Taskflow Agent is an MCP enabled multi-Agent framework. See the CVE-2023-2283 taskflow for an example of how to have an Agent review C code using a CodeQL database (demo video).",
               "children": [
@@ -307,7 +329,7 @@
                 "last_commit": "2026-08-21T10:54:40Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 224
+                "stars": 225
               }
             },
             {
@@ -351,6 +373,21 @@
     {
       "description": "Tools, actions, and examples for integrating CodeQL into your automation pipelines.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "advanced-security/sample-pipeline-files",
+          "description": "This repository contains pipeline files for various CI/CD systems (AWS CodeBuild, Azure Devops, CircleCI, DroneCI, Jenkins, Tekton, Travis), illustrating how to integrate the CodeQL CLI Bundle for Automated Code Scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629994363,
+            "language": null,
+            "last_commit": "2026-06-09T18:14:48Z",
+            "owner": "advanced-security",
+            "repo": "sample-codeql-pipeline-config",
+            "stars": 22
+          }
+        },
         {
           "children": [
             {
@@ -629,7 +666,7 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-23T16:07:18Z",
+                "last_commit": "2026-08-24T06:13:52Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 223
@@ -726,6 +763,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "advanced-security/codeql-qtil",
+              "description": "A library with a wide variety of handy CodeQL utilities, from simple to complex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991657637,
+                "language": "CodeQL",
+                "last_commit": "2026-03-21T17:48:28Z",
+                "owner": "advanced-security",
+                "repo": "codeql-qtil",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CodeQL Libraries & Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GitHubSecurityLab/CodeQL-Community-Packs",
               "description": "GitHub Security Lab model packs",
               "children": [],
@@ -763,6 +822,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "advanced-security/codeql-coding-standards-bundle-releases",
+              "description": "CodeQL bundles containing the CodeQL Coding Standards queries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505796102,
+                "language": null,
+                "last_commit": "2022-06-24T08:14:52Z",
+                "owner": "advanced-security",
+                "repo": "codeql-coding-standards-bundle-releases",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CodeQL Queries/Bundles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "codeql/actions",
               "description": "GitHub full built-in CodeQL query list - download the attached artifact.",
               "children": [],
@@ -770,10 +851,10 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-21T18:22:50Z",
+                "last_commit": "2026-08-24T14:20:07Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 9998
+                "stars": 10003
               }
             },
             {
@@ -938,7 +1019,7 @@
             "archived": false,
             "id": 513154248,
             "language": "CodeQL",
-            "last_commit": "2026-08-23T16:07:18Z",
+            "last_commit": "2026-08-24T06:13:52Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -979,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:56:55.596Z",
+    "last_updated": "2026-08-24T14:40:27.966Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
