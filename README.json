@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:40:09Z",
+                "last_commit": "2026-08-24T19:07:23Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
                 "stars": 22171
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-24T06:13:52Z",
+                "last_commit": "2026-08-24T16:18:52Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 223
@@ -851,7 +851,7 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-24T14:20:07Z",
+                "last_commit": "2026-08-24T17:08:42Z",
                 "owner": "github",
                 "repo": "codeql",
                 "stars": 10003
@@ -918,7 +918,7 @@
                 "archived": false,
                 "id": 566523451,
                 "language": "C#",
-                "last_commit": "2026-08-21T19:43:13Z",
+                "last_commit": "2026-08-24T15:37:37Z",
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
@@ -1019,7 +1019,7 @@
             "archived": false,
             "id": 513154248,
             "language": "CodeQL",
-            "last_commit": "2026-08-24T06:13:52Z",
+            "last_commit": "2026-08-24T16:18:52Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 223
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:27.966Z",
+    "last_updated": "2026-08-24T19:09:45.697Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
