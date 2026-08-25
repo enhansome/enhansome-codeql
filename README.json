@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T19:07:23Z",
+                "last_commit": "2026-08-25T06:26:38Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22171
+                "stars": 22172
               }
             },
             {
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 347270006,
                 "language": "Rust",
-                "last_commit": "2026-08-17T19:48:58Z",
+                "last_commit": "2026-08-24T19:34:15Z",
                 "owner": "psastras",
                 "repo": "sarif-rs",
-                "stars": 134
+                "stars": 135
               }
             }
           ],
@@ -851,10 +851,10 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-24T17:08:42Z",
+                "last_commit": "2026-08-25T06:26:29Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10003
+                "stars": 10007
               }
             },
             {
@@ -918,7 +918,7 @@
                 "archived": false,
                 "id": 566523451,
                 "language": "C#",
-                "last_commit": "2026-08-24T15:37:37Z",
+                "last_commit": "2026-08-24T23:03:43Z",
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:09:45.697Z",
+    "last_updated": "2026-08-25T06:34:25.327Z",
     "original_repository": "advanced-security/awesome-codeql",
     "original_repository_id": 611843955,
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
