@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T20:29:02Z",
+                "last_commit": "2026-08-27T11:31:12Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
                 "stars": 22176
@@ -329,7 +329,7 @@
                 "last_commit": "2026-08-21T10:54:40Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 226
+                "stars": 227
               }
             },
             {
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-26T20:31:16Z",
+                "last_commit": "2026-08-27T11:28:51Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
                 "stars": 224
@@ -699,7 +699,7 @@
                 "last_commit": "2026-07-13T19:13:38Z",
                 "owner": "trailofbits",
                 "repo": "codeql-queries",
-                "stars": 174
+                "stars": 175
               }
             }
           ],
@@ -851,10 +851,10 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-26T14:51:08Z",
+                "last_commit": "2026-08-27T11:20:57Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10015
+                "stars": 10018
               }
             },
             {
@@ -963,7 +963,7 @@
                 "archived": false,
                 "id": 655754626,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:40:39Z",
+                "last_commit": "2026-08-27T00:51:12Z",
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
                 "stars": 8
@@ -1019,7 +1019,7 @@
             "archived": false,
             "id": 513154248,
             "language": "CodeQL",
-            "last_commit": "2026-08-26T20:31:16Z",
+            "last_commit": "2026-08-27T11:28:51Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
             "stars": 224
@@ -1060,9 +1060,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:31:48.897Z",
-    "original_repository": "advanced-security/awesome-codeql",
-    "original_repository_id": 611843955,
+    "last_updated": "2026-08-27T11:31:43.201Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 611843955,
+      "language": null,
+      "last_commit": "2026-07-08T21:41:22Z",
+      "owner": "advanced-security",
+      "repo": "awesome-codeql",
+      "stars": 94
+    },
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
     "enhanced_repository_description": null,
