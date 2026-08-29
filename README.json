@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minutes, playing right from your browser.",
+                "homepage": "https://gh.io/scg",
                 "id": 617044081,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:54:28Z",
+                "open_issues": 2,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2815
+                "stars": 2815,
+                "topics": [
+                  "ai",
+                  "ai-security",
+                  "code-security",
+                  "coding-training",
+                  "cybersecurity",
+                  "online-course",
+                  "secure-coding",
+                  "security-training"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -28,12 +42,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enable code scanning and secure your code with CodeQL.",
+                "homepage": null,
                 "id": 678960639,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-24T17:16:32Z",
+                "open_issues": 2,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "skills-course"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -44,12 +65,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trail of Bits Testing Handbook - appsec.guide",
+                "homepage": "https://appsec.guide/",
                 "id": 740581793,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-28T12:49:45Z",
+                "open_issues": 20,
                 "owner": "trailofbits",
                 "repo": "testing-handbook",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -73,12 +99,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
+                "homepage": "https://brew.sh",
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-29T01:47:32Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T04:56:06Z",
+                "open_issues": 23,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22177
+                "stars": 22176,
+                "topics": [
+                  "cask",
+                  "hacktoberfest",
+                  "homebrew"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -89,12 +124,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub CLI extension for working with CodeQL",
+                "homepage": null,
                 "id": 407100753,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-10T19:50:23Z",
+                "open_issues": 4,
                 "owner": "github",
                 "repo": "gh-codeql",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "gh-extension"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -105,12 +147,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter Kernel for CodeQL",
+                "homepage": null,
                 "id": 669100414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-26T20:56:26Z",
+                "open_issues": 4,
                 "owner": "GitHubSecurityLab",
                 "repo": "codeql-jupyter-kernel",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "codeql",
+                  "jupyter",
+                  "jupyter-kernels",
+                  "jupyter-notebook",
+                  "jupyter-notebooks"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -121,12 +174,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Put the power of CodeQL in your pocket, take it with you to any CI 🚀",
+                "homepage": null,
                 "id": 524211037,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2023-10-27T18:23:15Z",
+                "open_issues": 0,
                 "owner": "david-wiggs",
                 "repo": "codeql-anywhere",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "codeql",
+                  "ghas",
+                  "github",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -137,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grab some/all of CodeQL CLI binary, QL library, VSCode starter workspace, VSCode and VSCode QL extension",
+                "homepage": null,
                 "id": 505535548,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-26T13:41:44Z",
+                "open_issues": 10,
                 "owner": "advanced-security",
                 "repo": "grab_ql",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -160,12 +228,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run CodeQL queries at scale using Multi-Repository Variant Analysis (MRVA)",
+                "homepage": null,
                 "id": 620276606,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-03T22:39:24Z",
+                "open_issues": 4,
                 "owner": "GitHubSecurityLab",
                 "repo": "gh-mrva",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "gh-extension"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -176,12 +251,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub CLI extension for working with CodeQL",
+                "homepage": null,
                 "id": 407100753,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-10T19:50:23Z",
+                "open_issues": 4,
                 "owner": "github",
                 "repo": "gh-codeql",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "gh-extension"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -192,12 +274,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GH CLI CodeQL Scan Extension",
+                "homepage": null,
                 "id": 523034041,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-09-04T13:26:09Z",
+                "open_issues": 3,
                 "owner": "advanced-security",
                 "repo": "gh-codeql-scan",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "codeql",
+                  "gh-extension",
+                  "ghas"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -208,12 +299,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal-first approach to CodeQL multi-repo variant analysis",
+                "homepage": null,
                 "id": 1037996055,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-15T13:20:29Z",
+                "open_issues": 3,
                 "owner": "trailofbits",
                 "repo": "mrva",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "codeql",
+                  "variant-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -224,12 +323,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple solution to run codeql anywhere",
+                "homepage": null,
                 "id": 1013930436,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-18T10:40:01Z",
+                "open_issues": 9,
                 "owner": "tweag",
                 "repo": "codeql-wrapper",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "codeql",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -247,12 +354,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prepackaged and precompiled github codeql container for rapid analysis, deployment and development.",
+                "homepage": "https://hub.docker.com/_/microsoft-cstsectools-codeql-container",
                 "id": 275224395,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T12:16:33Z",
+                "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "codeql-container",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "codeql",
+                  "codeql-cli",
+                  "codeql-command",
+                  "codeql-container",
+                  "codeql-queries",
+                  "docker",
+                  "quality-ql-pack",
+                  "semmle"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -263,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL Docker image",
+                "homepage": null,
                 "id": 381113920,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-12-12T17:47:54Z",
+                "open_issues": 0,
                 "owner": "advanced-security",
                 "repo": "codeql-container",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -279,12 +405,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " This repository serves as an exemplary resource demonstrating how to set up CodeQL to scan containerized applications for vulnerabilities. Its primary objective is to showcase the implementation of CodeQL in the code scanning process.",
+                "homepage": null,
                 "id": 660717646,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-06T14:01:41Z",
+                "open_issues": 6,
                 "owner": "advanced-security-demo",
                 "repo": "codeql_container_example",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "codeql",
+                  "codescanning",
+                  "containers"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -302,12 +437,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A group of Rust projects for interacting with the SARIF format",
+                "homepage": "https://psastras.github.io/sarif-rs/",
                 "id": 347270006,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T19:34:15Z",
+                "open_issues": 22,
                 "owner": "psastras",
                 "repo": "sarif-rs",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "cli",
+                  "clippy",
+                  "rust",
+                  "sarif",
+                  "serde"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -330,24 +476,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example taskflows to use with the GitHub Security Lab Taskflow Agent (https://github.com/GitHubSecurityLab/seclab-taskflow-agent)",
+                    "homepage": null,
                     "id": 1104132811,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T08:52:21Z",
+                    "open_issues": 8,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Security Lab Taskflow Agent",
+                "homepage": null,
                 "id": 1052954255,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T10:54:40Z",
+                "open_issues": 24,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -358,12 +514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like [Cursor](https://cursor.sh/) or AI agents to interact with CodeQL through structured commands.",
+                "homepage": null,
                 "id": 957631465,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-30T20:35:17Z",
+                "open_issues": 4,
                 "owner": "JordyZomer",
                 "repo": "codeql-mcp",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -374,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Copilot-native repository template for CodeQL query development",
+                "homepage": null,
                 "id": 1098729265,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2026-08-17T04:36:46Z",
+                "open_issues": 8,
                 "owner": "advanced-security",
                 "repo": "codeql-development-template",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -401,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate CodeQL into CI/CD pipelines, using the CodeQL CLI Bundle for Automated Code Scanning",
+            "homepage": null,
             "id": 629994363,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-09T18:14:48Z",
+            "open_issues": 3,
             "owner": "advanced-security",
             "repo": "sample-codeql-pipeline-config",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:49:33.655Z"
         },
@@ -419,12 +590,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magically generate Markdown badges for your docs 🛡️ 🦡 🧙",
+                "homepage": "https://michaelcurrin.github.io/badge-generator/",
                 "id": 236302595,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T15:45:22Z",
+                "open_issues": 79,
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
-                "stars": 491
+                "stars": 491,
+                "topics": [
+                  "badge",
+                  "badge-generator",
+                  "boilerplate",
+                  "docs-generator",
+                  "documentation-generator",
+                  "documentation-tool",
+                  "javascript",
+                  "markdown",
+                  "markdown-badges",
+                  "nodejs",
+                  "readme-badge",
+                  "readme-badges",
+                  "shield",
+                  "shields",
+                  "shields-io",
+                  "shieldsio",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -435,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 347074994,
                 "language": "CodeQL",
+                "license": null,
                 "last_commit": "2022-03-26T12:56:44Z",
+                "open_issues": 2,
                 "owner": "zbazztian",
                 "repo": "codeql-debug",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -451,12 +651,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action for filtering Code Scanning alerts by path and id",
+                "homepage": null,
                 "id": 517930493,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T21:14:01Z",
+                "open_issues": 3,
                 "owner": "advanced-security",
                 "repo": "filter-sarif",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "code-scanning",
+                  "github-advanced-security",
+                  "sarif"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -467,12 +676,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dismiss GitHub Code Scanning alerts from SARIF suppression data",
+                "homepage": null,
                 "id": 577956323,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T14:46:16Z",
+                "open_issues": 15,
                 "owner": "advanced-security",
                 "repo": "dismiss-alerts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "code-scanning",
+                  "code-security",
+                  "ghas",
+                  "github-advanced-security",
+                  "sarif",
+                  "sast"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -483,12 +704,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically set the CodeQL matrix job using the languages in your repository.",
+                "homepage": null,
                 "id": 565945924,
                 "language": "YAML",
+                "license": "MIT",
                 "last_commit": "2026-08-05T04:20:47Z",
+                "open_issues": 2,
                 "owner": "advanced-security",
                 "repo": "set-codeql-language-matrix",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "action",
+                  "actions",
+                  "codeql"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -499,12 +729,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Focus SAST scans (with CodeQL) on just the changed parts of your monorepo, split up as you define",
+                "homepage": null,
                 "id": 811884630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-17T20:26:44Z",
+                "open_issues": 15,
                 "owner": "advanced-security",
                 "repo": "monorepo-code-scanning-action",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "actions",
+                  "advanced-security",
+                  "code-scanning-ready",
+                  "codeql",
+                  "monorepo",
+                  "sast"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -515,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compare a CodeQL SARIF results file to a security standard CWE list and annotate the SARIF rules with a tag to highlight results applicable to the security standard",
+                "homepage": null,
                 "id": 633136001,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T10:53:05Z",
+                "open_issues": 5,
                 "owner": "advanced-security",
                 "repo": "codeql-sarif-security-standard-annotator",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -531,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All things SARIF, as an Action",
+                "homepage": null,
                 "id": 404011928,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:06:33Z",
+                "open_issues": 8,
                 "owner": "advanced-security",
                 "repo": "sarif-toolkit",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -547,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608001487,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T12:50:16Z",
+                "open_issues": 0,
                 "owner": "advanced-security",
                 "repo": "adjust-cvss",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -563,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "specify a CodeQL extractor to be used in your workflows as an author of an Extractor.",
+                "homepage": null,
                 "id": 932882373,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-26T04:24:16Z",
+                "open_issues": 8,
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-action",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -579,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delombok Java Code for analysis with Code Scanning",
+                "homepage": null,
                 "id": 564241313,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-18T17:06:33Z",
+                "open_issues": 1,
                 "owner": "advanced-security",
                 "repo": "delombok",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -602,12 +869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example of a GitHub Actions workflow showing how code scanning with CodeQL can be parallelized on monorepos.",
+                "homepage": null,
                 "id": 339013195,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-14T21:08:49Z",
+                "open_issues": 2,
                 "owner": "dassencio",
                 "repo": "parallel-code-scanning",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -618,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo that demonstrates using an Actions workflow Job matrix to run parallel CodeQL scans on applications in a monorepo.",
+                "homepage": null,
                 "id": 526718967,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-09-27T17:12:16Z",
+                "open_issues": 1,
                 "owner": "thedave42",
                 "repo": "multi-lang-monorepo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -634,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detached fork of babel/babel to use as a TypeScript monorepo sample with 150+ packages using the monorepo-code-scanning-action  https://github.com/advanced-security/monorepo-code-scanning-action",
+                "homepage": null,
                 "id": 878571502,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:16:21Z",
+                "open_issues": 6,
                 "owner": "advanced-security",
                 "repo": "sample-javascript-monorepo",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -657,12 +939,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A GitHub action for organizations that enables advanced security code scanning on all new repos",
+                "homepage": null,
                 "id": 413929478,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T06:03:22Z",
+                "open_issues": 2,
                 "owner": "zkoppert",
                 "repo": "advanced-security-enforcer",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "actions",
+                  "advanced-security",
+                  "code-scanning",
+                  "codeql",
+                  "github-actions",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -673,12 +967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 680136040,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-18T13:27:33Z",
+                "open_issues": 2,
                 "owner": "octodemo",
                 "repo": "codeql-selective-analysis",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -702,12 +1001,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains CodeQL queries and libraries which support various Coding Standards.",
+                "homepage": null,
                 "id": 513154248,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:38:27Z",
+                "open_issues": 137,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "autosar",
+                  "cert",
+                  "code-scanning",
+                  "codeql",
+                  "coding-standards",
+                  "cpp14",
+                  "functional-safety",
+                  "iso26262",
+                  "misra"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -718,12 +1032,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of community-driven CodeQL query, library and extension packs",
+                "homepage": "https://securitylab.github.com/",
                 "id": 691021920,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-29T01:41:05Z",
+                "open_issues": 13,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "codeql"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -734,12 +1055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL queries developed by Trail of Bits",
+                "homepage": null,
                 "id": 706642871,
                 "language": "CodeQL",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-13T19:13:38Z",
+                "open_issues": 9,
                 "owner": "trailofbits",
                 "repo": "codeql-queries",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -757,12 +1083,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Action to retrofit a CodeQL bundle with additional queries, libraries, and customizations",
+                "homepage": null,
                 "id": 470210348,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:34:01Z",
+                "open_issues": 3,
                 "owner": "advanced-security",
                 "repo": "codeql-bundle-action",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "code-scanning",
+                  "codeql",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -773,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI to build a custom CodeQL bundle",
+                "homepage": null,
                 "id": 580277699,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:05:09Z",
+                "open_issues": 10,
                 "owner": "advanced-security",
                 "repo": "codeql-bundle",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -789,12 +1129,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 485668543,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-03-29T02:42:38Z",
+                "open_issues": 0,
                 "owner": "zbazztian",
                 "repo": "gh-tailor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -812,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library with a wide variety of handy CodeQL utilities, from simple to complex.",
+                "homepage": null,
                 "id": 991657637,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2026-03-21T17:48:28Z",
+                "open_issues": 11,
                 "owner": "advanced-security",
                 "repo": "codeql-qtil",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -835,12 +1185,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of community-driven CodeQL query, library and extension packs",
+                "homepage": "https://securitylab.github.com/",
                 "id": 691021920,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-29T01:41:05Z",
+                "open_issues": 13,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "codeql"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -851,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL Summary Generator",
+                "homepage": null,
                 "id": 513994249,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-28T14:46:59Z",
+                "open_issues": 2,
                 "owner": "advanced-security",
                 "repo": "codeql-summarize",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -874,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL bundles containing the CodeQL Coding Standards queries",
+                "homepage": null,
                 "id": 505796102,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-06-24T08:14:52Z",
+                "open_issues": 0,
                 "owner": "advanced-security",
                 "repo": "codeql-coding-standards-bundle-releases",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -897,12 +1264,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
+                "homepage": "https://codeql.github.com",
                 "id": 143040428,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:24:03Z",
+                "open_issues": 1464,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10023
+                "stars": 10023,
+                "topics": [
+                  "codeql",
+                  "github-advanced-security",
+                  "github-security-lab",
+                  "semmle-ql",
+                  "works-with-codespaces"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -913,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of query suites which utilize a subset of CodeQL queries for targeted code scanning activities.",
+                "homepage": null,
                 "id": 540574637,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-09-27T14:42:03Z",
+                "open_issues": 0,
                 "owner": "securingdev",
                 "repo": "codeql-query-suites",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -936,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL Extractor, Library, and Queries for Infrastructure as Code",
+                "homepage": null,
                 "id": 677044828,
                 "language": "CodeQL",
-                "last_commit": "2026-08-29T01:43:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:13:04Z",
+                "open_issues": 20,
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-iac",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -952,12 +1340,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains CoinFabrik's ongoing research and development to extend CodeQL support to the Solidity smart contract language. By leveraging the foundational work done by the CodeQL team for Ruby, we have adapted and expanded their approach to create a powerful toolset for analyzing Solidity code.",
+                "homepage": "https://www.coinfabrik.com/products/cyscout-solidity-codeql/",
                 "id": 873010540,
                 "language": "CodeQL",
+                "license": null,
                 "last_commit": "2024-10-25T14:55:19Z",
+                "open_issues": 1,
                 "owner": "CoinFabrik",
                 "repo": "CyScout",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "codeql",
+                  "codeql-enabled",
+                  "security",
+                  "security-tools",
+                  "smart-contracts",
+                  "solidty"
+                ]
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -968,12 +1368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
+                "homepage": "https://codeql.github.com",
                 "id": 566523451,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:51:04Z",
+                "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "codeql",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -984,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL for LLVM Kaleidoscope",
+                "homepage": null,
                 "id": 606762632,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2024-07-31T08:17:57Z",
+                "open_issues": 4,
                 "owner": "aibaars",
                 "repo": "codeql-kaleidoscope",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -1000,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Archive of CodeQL support for COBOL",
+                "homepage": null,
                 "id": 237742675,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-02-02T09:14:10Z",
+                "open_issues": 0,
                 "owner": "krisds",
                 "repo": "cobol-codeql",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -1016,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL models for SAP JavaScript frameworks CAP, UI5 and XSJS",
+                "homepage": null,
                 "id": 655754626,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:40:18Z",
+                "open_issues": 16,
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -1032,12 +1452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeQL Extractor for Bicep Configurations",
+                "homepage": null,
                 "id": 964016216,
                 "language": "CodeQL",
+                "license": "MIT",
                 "last_commit": "2025-09-08T16:25:15Z",
+                "open_issues": 2,
                 "owner": "GitHubSecurityLab",
                 "repo": "codeql-extractor-bicep",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             },
@@ -1048,12 +1473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "specify a CodeQL extractor to be used in your workflows as an author of an Extractor.",
+                "homepage": null,
                 "id": 932882373,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-26T04:24:16Z",
+                "open_issues": 8,
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-action",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
             }
@@ -1075,12 +1505,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains CodeQL queries and libraries which support various Coding Standards.",
+            "homepage": null,
             "id": 513154248,
             "language": "CodeQL",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:38:27Z",
+            "open_issues": 137,
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "autosar",
+              "cert",
+              "code-scanning",
+              "codeql",
+              "coding-standards",
+              "cpp14",
+              "functional-safety",
+              "iso26262",
+              "misra"
+            ]
           },
           "first_seen": "2026-08-29T01:49:33.655Z"
         },
@@ -1091,12 +1536,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 417247050,
             "language": "Shell",
-            "last_commit": "2026-08-17T17:39:34Z",
+            "license": null,
+            "last_commit": "2026-08-29T02:47:42Z",
+            "open_issues": 9,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "advanced-security",
+              "advanced-security-training",
+              "code-scanning",
+              "codeql",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T01:49:33.655Z"
         },
@@ -1107,12 +1563,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 417247050,
             "language": "Shell",
-            "last_commit": "2026-08-17T17:39:34Z",
+            "license": null,
+            "last_commit": "2026-08-29T02:47:42Z",
+            "open_issues": 9,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "advanced-security",
+              "advanced-security-training",
+              "code-scanning",
+              "codeql",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T01:49:33.655Z"
         }
@@ -1121,15 +1588,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:49:33.655Z",
+    "last_updated": "2026-08-29T04:57:51.522Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome CodeQL resources.",
+      "homepage": null,
       "id": 611843955,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-08T21:41:22Z",
+      "open_issues": 1,
       "owner": "advanced-security",
       "repo": "awesome-codeql",
-      "stars": 94
+      "stars": 94,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "github-advanced-security"
+      ]
     },
     "original_repository_sha": "3ba61434bc101f128c20c2cf2e6b999f673a2904",
     "enhanced_repository": "enhansome/enhansome-codeql",
