@@ -18,7 +18,8 @@
                 "owner": "skills",
                 "repo": "secure-code-game",
                 "stars": 2815
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "trailofbits",
                 "repo": "testing-handbook",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -72,11 +75,12 @@
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T23:42:51Z",
+                "last_commit": "2026-08-29T01:47:32Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22176
-              }
+                "stars": 22177
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "github",
                 "repo": "gh-codeql",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "GitHubSecurityLab",
                 "repo": "codeql-jupyter-kernel",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "david-wiggs",
                 "repo": "codeql-anywhere",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "advanced-security",
                 "repo": "grab_ql",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -158,7 +166,8 @@
                 "owner": "GitHubSecurityLab",
                 "repo": "gh-mrva",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "github",
                 "repo": "gh-codeql",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "advanced-security",
                 "repo": "gh-codeql-scan",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "trailofbits",
                 "repo": "mrva",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "tweag",
                 "repo": "codeql-wrapper",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "microsoft",
                 "repo": "codeql-container",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-container",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "advanced-security-demo",
                 "repo": "codeql_container_example",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -292,7 +308,8 @@
                 "owner": "psastras",
                 "repo": "sarif-rs",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -319,7 +336,8 @@
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:49:33.655Z"
                 }
               ],
               "repo_info": {
@@ -329,8 +347,9 @@
                 "last_commit": "2026-08-21T10:54:40Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 228
-              }
+                "stars": 229
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -345,7 +364,8 @@
                 "owner": "JordyZomer",
                 "repo": "codeql-mcp",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -360,7 +380,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-development-template",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -386,7 +407,8 @@
             "owner": "advanced-security",
             "repo": "sample-codeql-pipeline-config",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:49:33.655Z"
         },
         {
           "children": [
@@ -403,7 +425,8 @@
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -418,7 +441,8 @@
                 "owner": "zbazztian",
                 "repo": "codeql-debug",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -433,7 +457,8 @@
                 "owner": "advanced-security",
                 "repo": "filter-sarif",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -448,7 +473,8 @@
                 "owner": "advanced-security",
                 "repo": "dismiss-alerts",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "advanced-security",
                 "repo": "set-codeql-language-matrix",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -478,7 +505,8 @@
                 "owner": "advanced-security",
                 "repo": "monorepo-code-scanning-action",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -493,7 +521,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-sarif-security-standard-annotator",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -508,7 +537,8 @@
                 "owner": "advanced-security",
                 "repo": "sarif-toolkit",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -523,7 +553,8 @@
                 "owner": "advanced-security",
                 "repo": "adjust-cvss",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -538,7 +569,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-action",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -553,7 +585,8 @@
                 "owner": "advanced-security",
                 "repo": "delombok",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -575,7 +608,8 @@
                 "owner": "dassencio",
                 "repo": "parallel-code-scanning",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -590,7 +624,8 @@
                 "owner": "thedave42",
                 "repo": "multi-lang-monorepo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -601,11 +636,12 @@
                 "archived": false,
                 "id": 878571502,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T00:22:20Z",
+                "last_commit": "2026-08-28T03:16:21Z",
                 "owner": "advanced-security",
                 "repo": "sample-javascript-monorepo",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -627,7 +663,8 @@
                 "owner": "zkoppert",
                 "repo": "advanced-security-enforcer",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -642,7 +679,8 @@
                 "owner": "octodemo",
                 "repo": "codeql-selective-analysis",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -666,11 +704,12 @@
                 "archived": false,
                 "id": 513154248,
                 "language": "CodeQL",
-                "last_commit": "2026-08-28T00:34:01Z",
+                "last_commit": "2026-08-28T13:38:27Z",
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 224
-              }
+                "stars": 225
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -681,11 +720,12 @@
                 "archived": false,
                 "id": 691021920,
                 "language": "Java",
-                "last_commit": "2026-08-26T13:43:46Z",
+                "last_commit": "2026-08-29T01:41:05Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -700,7 +740,8 @@
                 "owner": "trailofbits",
                 "repo": "codeql-queries",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -722,7 +763,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-bundle-action",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -733,11 +775,12 @@
                 "archived": false,
                 "id": 580277699,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:24:32Z",
+                "last_commit": "2026-08-28T15:05:09Z",
                 "owner": "advanced-security",
                 "repo": "codeql-bundle",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -752,7 +795,8 @@
                 "owner": "zbazztian",
                 "repo": "gh-tailor",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -774,7 +818,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-qtil",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -792,11 +837,12 @@
                 "archived": false,
                 "id": 691021920,
                 "language": "Java",
-                "last_commit": "2026-08-26T13:43:46Z",
+                "last_commit": "2026-08-29T01:41:05Z",
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -811,7 +857,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-summarize",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -833,7 +880,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-coding-standards-bundle-releases",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -851,11 +899,12 @@
                 "archived": false,
                 "id": 143040428,
                 "language": "CodeQL",
-                "last_commit": "2026-08-27T17:55:49Z",
+                "last_commit": "2026-08-28T17:24:03Z",
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10019
-              }
+                "stars": 10023
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -870,7 +919,8 @@
                 "owner": "securingdev",
                 "repo": "codeql-query-suites",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -888,11 +938,12 @@
                 "archived": false,
                 "id": 677044828,
                 "language": "CodeQL",
-                "last_commit": "2026-07-31T01:43:46Z",
+                "last_commit": "2026-08-29T01:43:25Z",
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-iac",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -907,7 +958,8 @@
                 "owner": "CoinFabrik",
                 "repo": "CyScout",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -922,7 +974,8 @@
                 "owner": "microsoft",
                 "repo": "codeql",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -937,7 +990,8 @@
                 "owner": "aibaars",
                 "repo": "codeql-kaleidoscope",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1006,8 @@
                 "owner": "krisds",
                 "repo": "cobol-codeql",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -963,11 +1018,12 @@
                 "archived": false,
                 "id": 655754626,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:18:55Z",
+                "last_commit": "2026-08-28T18:40:18Z",
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1038,8 @@
                 "owner": "GitHubSecurityLab",
                 "repo": "codeql-extractor-bicep",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1054,8 @@
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-action",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:49:33.655Z"
             }
           ],
           "description": null,
@@ -1019,11 +1077,12 @@
             "archived": false,
             "id": 513154248,
             "language": "CodeQL",
-            "last_commit": "2026-08-28T00:34:01Z",
+            "last_commit": "2026-08-28T13:38:27Z",
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 224
-          }
+            "stars": 225
+          },
+          "first_seen": "2026-08-29T01:49:33.655Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1097,8 @@
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:49:33.655Z"
         },
         {
           "node_type": "item",
@@ -1053,14 +1113,15 @@
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:49:33.655Z"
         }
       ],
       "title": "Troubleshooting"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:15:45.694Z",
+    "last_updated": "2026-08-29T01:49:33.655Z",
     "original_repository_info": {
       "archived": false,
       "id": 611843955,
