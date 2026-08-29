@@ -51,7 +51,7 @@
                 "open_issues": 2,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "skills-course"
                 ]
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T04:56:06Z",
-                "open_issues": 23,
+                "last_commit": "2026-08-29T20:54:28Z",
+                "open_issues": 24,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22176,
+                "stars": 22177,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -523,7 +523,7 @@
                 "open_issues": 4,
                 "owner": "JordyZomer",
                 "repo": "codeql-mcp",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1064,7 +1064,7 @@
                 "open_issues": 9,
                 "owner": "trailofbits",
                 "repo": "codeql-queries",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1269,11 +1269,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-08-28T17:24:03Z",
-                "open_issues": 1464,
+                "last_commit": "2026-08-29T07:11:16Z",
+                "open_issues": 1465,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10023,
+                "stars": 10027,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1588,7 +1588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:51.522Z",
+    "last_updated": "2026-08-29T21:03:42.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
