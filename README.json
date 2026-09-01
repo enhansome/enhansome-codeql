@@ -17,11 +17,11 @@
                 "id": 617044081,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-13T07:54:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-01T05:53:46Z",
+                "open_issues": 4,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2816,
+                "stars": 2815,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -51,7 +51,7 @@
                 "open_issues": 2,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 146,
+                "stars": 145,
                 "topics": [
                   "skills-course"
                 ]
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-31T22:57:12Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-01T20:10:20Z",
+                "open_issues": 26,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22180,
+                "stars": 22179,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -502,7 +502,7 @@
                 "open_issues": 24,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -599,7 +599,7 @@
                 "open_issues": 79,
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "badge",
                   "badge-generator",
@@ -1041,7 +1041,7 @@
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 216,
+                "stars": 217,
                 "topics": [
                   "codeql"
                 ]
@@ -1194,7 +1194,7 @@
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 216,
+                "stars": 217,
                 "topics": [
                   "codeql"
                 ]
@@ -1269,11 +1269,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-08-31T17:52:56Z",
-                "open_issues": 1467,
+                "last_commit": "2026-09-01T17:53:39Z",
+                "open_issues": 1470,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10036,
+                "stars": 10039,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1588,7 +1588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:58:02.743Z",
+    "last_updated": "2026-09-01T21:12:03.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
