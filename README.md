@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,182 | 🐛 23 | 🌐 Ruby | 📅 2026-09-04 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,183 | 🐛 30 | 🌐 Ruby | 📅 2026-09-05 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 43 | 🐛 4 | 🌐 Shell | 📅 2026-08-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -89,7 +89,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 ### CodeQL AI & LLM Tooling
 
 * [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) ⭐ 230 | 🐛 24 | 🌐 Python | 📅 2026-08-21 - The GitHub Security Lab Taskflow Agent is an MCP enabled multi-Agent framework. See the [CVE-2023-2283](https://github.com/GitHubSecurityLab/seclab-taskflow-agent/blob/main/examples/taskflows/CVE-2023-2283.yaml) ⭐ 230 | 🐛 24 | 🌐 Python | 📅 2026-08-21 taskflow for an example of how to have an Agent review C code using a CodeQL database ([demo video](https://www.youtube.com/watch?v=eRSPSVW8RMo)).
-  * [GitHubSecurityLab/seclab-taskflows](https://github.com/GitHubSecurityLab/seclab-taskflows) ⭐ 76 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - Example taskflows to use with the GitHub Security Lab Taskflow Agent Framework. Intended to be an easy-to-copy template for anybody who would like to publish their own suite of taskflows.
+  * [GitHubSecurityLab/seclab-taskflows](https://github.com/GitHubSecurityLab/seclab-taskflows) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - Example taskflows to use with the GitHub Security Lab Taskflow Agent Framework. Intended to be an easy-to-copy template for anybody who would like to publish their own suite of taskflows.
 * [JordyZomer/codeql-mcp](https://github.com/JordyZomer/codeql-mcp) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2025-03-30 - This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like Cursor or AI agents to interact with CodeQL through structured commands and doc search.
 * [advanced-security/codeql-development-template](https://github.com/advanced-security/codeql-development-template) ⭐ 11 | 🐛 8 | 🌐 CodeQL | 📅 2026-08-31 - Copilot-native repository template for CodeQL query development. Lowering the barrier to entry for CodeQL development through natural language and GitHub Copilot. A GitHub repository template for building custom CodeQL queries with AI assistance. This template provides a structured environment with prompts, instructions, and workflows designed to guide GitHub Copilot Coding Agent through the complete CodeQL development lifecycle.
 * [github/codeql-development-mcp-server](https://github.com/github/codeql-development-mcp-server) - GitHub CodeQL Development MCP Server supporting LLM requests for CodeQL development tools and resources.
@@ -107,7 +107,7 @@ Tools, actions, and examples for integrating CodeQL into your automation pipelin
 * [badge-generator](https://github.com/MichaelCurrin/badge-generator) ⭐ 489 | 🐛 79 | 🌐 TypeScript | 📅 2026-06-22 - [![CodeQL](https://github.com/MichaelCurrin/badge-generator/workflows/CodeQL/badge.svg)](https://github.com/MichaelCurrin/badge-generator/actions?query=workflow%3ACodeQL "Code quality workflow status") ⭐ 489 | 🐛 79 | 🌐 TypeScript | 📅 2026-06-22 Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 * [zbazztian/codeql-debug](https://github.com/zbazztian/codeql-debug) ⚠️ Archived - Add this action to an existing CodeQL analysis workflow to generate an html report
 * [advanced-security/filter-sarif](https://github.com/advanced-security/filter-sarif) ⭐ 35 | 🐛 3 | 🌐 Java | 📅 2026-07-22 - GitHub Action for filtering Code Scanning alerts by path and id
-* [advanced-security/dismiss-alerts](https://github.com/advanced-security/dismiss-alerts) ⭐ 23 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-11 - Dismisses GitHub Code Scanning alerts from `//codeql[supress reason]` style comments on the default branch
+* [advanced-security/dismiss-alerts](https://github.com/advanced-security/dismiss-alerts) ⭐ 23 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-05 - Dismisses GitHub Code Scanning alerts from `//codeql[supress reason]` style comments on the default branch
 * [advanced-security/set-codeql-language-matrix](https://github.com/advanced-security/set-codeql-language-matrix) ⭐ 21 | 🐛 2 | 🌐 YAML | 📅 2026-08-05 - Automatically set the CodeQL matrix job using the languages in your repository.
 * [advanced-security/monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-17 - Focus SAST scans (with CodeQL) on just the changed parts of your monorepo, split up as you define
 * [advanced-security/codeql-sarif-security-standard-annotator](https://github.com/advanced-security/codeql-sarif-security-standard-annotator) ⭐ 10 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-05 - Add an `owasp-top10-2021` tag to relevant results
@@ -165,7 +165,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,050 | 🐛 1,460 | 🌐 CodeQL | 📅 2026-09-04 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,053 | 🐛 1,458 | 🌐 CodeQL | 📅 2026-09-05 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -183,8 +183,8 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ## Troubleshooting
 
 * [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards/blob/main/docs/user_manual.md#hazard-and-risk-analysis) ⭐ 225 | 🐛 137 | 🌐 CodeQL | 📅 2026-09-04 - CodeQL Coding Standards - Hazard and risk analysis
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 10 | 🌐 Shell | 📅 2026-08-29 - CodeQL Build Failure Troubleshooting
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 10 | 🌐 Shell | 📅 2026-08-29 - GitHub SARIF Upload Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 11 | 🌐 Shell | 📅 2026-08-29 - CodeQL Build Failure Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 11 | 🌐 Shell | 📅 2026-08-29 - GitHub SARIF Upload Troubleshooting
 
 ## Contribute
 
@@ -192,8 +192,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 503,000 | 🐛 106 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 503,291 | 🐛 106 | 📅 2026-09-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
