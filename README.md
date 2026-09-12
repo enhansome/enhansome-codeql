@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,196 | 🐛 26 | 🌐 Ruby | 📅 2026-09-11 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,198 | 🐛 36 | 🌐 Ruby | 📅 2026-09-12 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 43 | 🐛 5 | 🌐 Shell | 📅 2026-09-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -109,7 +109,7 @@ Tools, actions, and examples for integrating CodeQL into your automation pipelin
 * [advanced-security/filter-sarif](https://github.com/advanced-security/filter-sarif) ⭐ 35 | 🐛 3 | 🌐 Java | 📅 2026-07-22 - GitHub Action for filtering Code Scanning alerts by path and id
 * [advanced-security/dismiss-alerts](https://github.com/advanced-security/dismiss-alerts) ⭐ 23 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-08 - Dismisses GitHub Code Scanning alerts from `//codeql[supress reason]` style comments on the default branch
 * [advanced-security/set-codeql-language-matrix](https://github.com/advanced-security/set-codeql-language-matrix) ⭐ 21 | 🐛 2 | 🌐 YAML | 📅 2026-08-05 - Automatically set the CodeQL matrix job using the languages in your repository.
-* [advanced-security/monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-11 - Focus SAST scans (with CodeQL) on just the changed parts of your monorepo, split up as you define
+* [advanced-security/monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-11 - Focus SAST scans (with CodeQL) on just the changed parts of your monorepo, split up as you define
 * [advanced-security/codeql-sarif-security-standard-annotator](https://github.com/advanced-security/codeql-sarif-security-standard-annotator) ⭐ 10 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-05 - Add an `owasp-top10-2021` tag to relevant results
 * [advanced-security/sarif-toolkit](https://github.com/advanced-security/sarif-toolkit/blob/main/submodules/) ⭐ 4 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - Allows users to split up SARIF files that use submodules into multiple SARIF files that are then published to there appropriate repositories.
 * [advanced-security/adjust-cvss](https://github.com/advanced-security/adjust-cvss) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-12-15 - Adjust the severity of the CVSS score assigned to a result in SARIF file
@@ -120,7 +120,7 @@ Tools, actions, and examples for integrating CodeQL into your automation pipelin
 
 * [dassencio/parallel-code-scanning](https://github.com/dassencio/parallel-code-scanning) ⭐ 16 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-14 - An example of a GitHub Actions workflow showing how code scanning with CodeQL can be parallelized on monorepos.
 * [thedave42/multi-lang-monorepo](https://github.com/thedave42/multi-lang-monorepo) ⭐ 1 | 🐛 1 | 🌐 C# | 📅 2023-09-27 - A repo that demonstrates using an Actions workflow Job matrix to run parallel CodeQL scans on applications in a monorepo.
-* [advanced-security/sample-javascript-monorepo](https://github.com/advanced-security/sample-javascript-monorepo) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-11 - Detached fork of babel/babel to use as a TypeScript monorepo sample with 150+ packages using the [monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-11
+* [advanced-security/sample-javascript-monorepo](https://github.com/advanced-security/sample-javascript-monorepo) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-11 - Detached fork of babel/babel to use as a TypeScript monorepo sample with 150+ packages using the [monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-11
 
 ### CodeQL Enforcement
 
@@ -145,7 +145,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ### CodeQL Tooling (Bundles + Packs)
 
 * [advanced-security/codeql-bundle-action](https://github.com/advanced-security/codeql-bundle-action) ⭐ 27 | 🐛 3 | 🌐 Shell | 📅 2026-08-03 - Action to retrofit a CodeQL bundle with additional queries, libraries, and customizations
-* [rvermeulen/codeql-bundle](https://github.com/rvermeulen/codeql-bundle) ⭐ 15 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - CLI to build a custom CodeQL bundle
+* [rvermeulen/codeql-bundle](https://github.com/rvermeulen/codeql-bundle) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-09-12 - CLI to build a custom CodeQL bundle
 * [zbazztian/gh-tailor](https://github.com/zbazztian/gh-tailor) ⚠️ Archived - A tool for customizing CodeQL packs.
 
 ### CodeQL Libraries & Utilities
@@ -165,7 +165,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,081 | 🐛 1,463 | 🌐 CodeQL | 📅 2026-09-11 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,082 | 🐛 1,462 | 🌐 CodeQL | 📅 2026-09-12 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -183,8 +183,8 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ## Troubleshooting
 
 * [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards/blob/main/docs/user_manual.md#hazard-and-risk-analysis) ⭐ 227 | 🐛 138 | 🌐 CodeQL | 📅 2026-09-10 - CodeQL Coding Standards - Hazard and risk analysis
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 12 | 🌐 Shell | 📅 2026-08-29 - CodeQL Build Failure Troubleshooting
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 12 | 🌐 Shell | 📅 2026-08-29 - GitHub SARIF Upload Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 13 | 🌐 Shell | 📅 2026-08-29 - CodeQL Build Failure Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 13 | 🌐 Shell | 📅 2026-08-29 - GitHub SARIF Upload Troubleshooting
 
 ## Contribute
 
@@ -192,8 +192,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,126 | 🐛 106 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,428 | 🐛 106 | 📅 2026-09-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
