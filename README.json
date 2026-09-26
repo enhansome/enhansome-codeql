@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2837,
+                "stars": 2838,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-25T21:43:58Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-26T18:49:09Z",
+                "open_issues": 26,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22232,
+                "stars": 22235,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -1291,10 +1291,10 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-09-25T14:35:16Z",
-                "open_issues": 1479,
+                "open_issues": 1478,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10127,
+                "stars": 10128,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:44:45.486Z",
+    "last_updated": "2026-09-26T21:22:48.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
