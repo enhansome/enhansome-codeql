@@ -51,7 +51,7 @@
                 "open_issues": 3,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 153,
+                "stars": 155,
                 "topics": [
                   "skills-course"
                 ]
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-26T18:49:09Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-27T20:48:52Z",
+                "open_issues": 17,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22235,
+                "stars": 22233,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -969,7 +969,7 @@
                 "open_issues": 2,
                 "owner": "zkoppert",
                 "repo": "advanced-security-enforcer",
-                "stars": 42,
+                "stars": 41,
                 "topics": [
                   "actions",
                   "advanced-security",
@@ -1291,10 +1291,10 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-09-25T14:35:16Z",
-                "open_issues": 1478,
+                "open_issues": 1472,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10128,
+                "stars": 10131,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1562,8 +1562,8 @@
             "id": 417247050,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-22T00:11:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-26T21:44:11Z",
+            "open_issues": 5,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80,
@@ -1589,8 +1589,8 @@
             "id": 417247050,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-22T00:11:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-26T21:44:11Z",
+            "open_issues": 5,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
             "stars": 80,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:22:48.274Z",
+    "last_updated": "2026-09-27T21:30:25.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
