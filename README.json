@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2837,
+                "stars": 2836,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-29T22:09:27Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-30T22:26:54Z",
+                "open_issues": 32,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22239,
+                "stars": 22241,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -304,7 +304,7 @@
                 "id": 1037996055,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-07-15T13:20:29Z",
+                "last_commit": "2026-09-30T12:46:17Z",
                 "open_issues": 3,
                 "owner": "trailofbits",
                 "repo": "mrva",
@@ -485,7 +485,7 @@
                     "open_issues": 9,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -502,7 +502,7 @@
                 "open_issues": 25,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 253,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -783,7 +783,7 @@
                 "id": 633136001,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-05T10:53:05Z",
+                "last_commit": "2026-09-30T10:52:55Z",
                 "open_issues": 5,
                 "owner": "advanced-security",
                 "repo": "codeql-sarif-security-standard-annotator",
@@ -1031,7 +1031,7 @@
                 "open_issues": 139,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "autosar",
                   "cert",
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-09-29T20:43:20Z",
-                "open_issues": 1469,
+                "last_commit": "2026-09-30T20:35:49Z",
+                "open_issues": 1466,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10140,
+                "stars": 10145,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1457,7 +1457,7 @@
                 "id": 655754626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T21:22:32Z",
+                "last_commit": "2026-09-30T21:15:42Z",
                 "open_issues": 16,
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
@@ -1535,7 +1535,7 @@
             "open_issues": 139,
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "autosar",
               "cert",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:30:13.675Z",
+    "last_updated": "2026-09-30T22:27:56.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
@@ -1621,7 +1621,7 @@
       "open_issues": 1,
       "owner": "advanced-security",
       "repo": "awesome-codeql",
-      "stars": 95,
+      "stars": 96,
       "topics": [
         "awesome",
         "awesome-list",
