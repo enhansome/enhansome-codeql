@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2836,
+                "stars": 2838,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -51,7 +51,7 @@
                 "open_issues": 3,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "skills-course"
                 ]
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-03T04:34:10Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-03T20:29:45Z",
+                "open_issues": 21,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22244,
+                "stars": 22245,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -363,7 +363,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "codeql-container",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "codeql",
                   "codeql-cli",
@@ -443,7 +443,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:31:20Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "psastras",
                 "repo": "sarif-rs",
                 "stars": 137,
@@ -1291,10 +1291,10 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:57:06Z",
-                "open_issues": 1478,
+                "open_issues": 1480,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10158,
+                "stars": 10162,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1457,8 +1457,8 @@
                 "id": 655754626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:33:24Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-03T14:32:10Z",
+                "open_issues": 16,
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
                 "stars": 8,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:33.165Z",
+    "last_updated": "2026-10-03T21:37:37.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
