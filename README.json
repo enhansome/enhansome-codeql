@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T22:26:08Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-03T04:34:10Z",
+                "open_issues": 28,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22245,
+                "stars": 22244,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -502,7 +502,7 @@
                 "open_issues": 25,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1294,7 +1294,7 @@
                 "open_issues": 1478,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10155,
+                "stars": 10158,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:26:51.993Z",
+    "last_updated": "2026-10-03T04:37:33.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
