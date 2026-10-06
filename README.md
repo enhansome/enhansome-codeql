@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,248 | 🐛 44 | 🌐 Ruby | 📅 2026-10-06 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,248 | 🐛 29 | 🌐 Ruby | 📅 2026-10-06 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 44 | 🐛 5 | 🌐 Shell | 📅 2026-09-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -112,7 +112,7 @@ Tools, actions, and examples for integrating CodeQL into your automation pipelin
 * [advanced-security/set-codeql-language-matrix](https://github.com/advanced-security/set-codeql-language-matrix) ⭐ 21 | 🐛 2 | 🌐 YAML | 📅 2026-08-05 - Automatically set the CodeQL matrix job using the languages in your repository.
 * [advanced-security/monorepo-code-scanning-action](https://github.com/advanced-security/monorepo-code-scanning-action) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-11 - Focus SAST scans (with CodeQL) on just the changed parts of your monorepo, split up as you define
 * [advanced-security/codeql-sarif-security-standard-annotator](https://github.com/advanced-security/codeql-sarif-security-standard-annotator) ⭐ 10 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-30 - Add an `owasp-top10-2021` tag to relevant results
-* [advanced-security/sarif-toolkit](https://github.com/advanced-security/sarif-toolkit/blob/main/submodules/) ⭐ 4 | 🐛 8 | 🌐 Python | 📅 2026-09-23 - Allows users to split up SARIF files that use submodules into multiple SARIF files that are then published to there appropriate repositories.
+* [advanced-security/sarif-toolkit](https://github.com/advanced-security/sarif-toolkit/blob/main/submodules/) ⭐ 4 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - Allows users to split up SARIF files that use submodules into multiple SARIF files that are then published to there appropriate repositories.
 * [advanced-security/adjust-cvss](https://github.com/advanced-security/adjust-cvss) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-12-15 - Adjust the severity of the CVSS score assigned to a result in SARIF file
 * [advanced-security/codeql-extractor-action](https://github.com/advanced-security/codeql-extractor-action) ⭐ 2 | 🐛 10 | 🌐 Rust | 📅 2026-08-26 - An Action that allows you to specify a CodeQL extractor to be used in your workflows as an author of an Extractor.
 * [advanced-security/delombok](https://github.com/advanced-security/delombok) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2023-09-18 - Delombok Java Code for analysis with Code Scanning (deprecated - now [supported by CodeQL](https://github.blog/changelog/2023-09-01-code-scanning-with-codeql-improves-support-for-java-codebases-that-use-project-lombok/))
@@ -166,7 +166,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,168 | 🐛 1,481 | 🌐 CodeQL | 📅 2026-10-05 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,169 | 🐛 1,481 | 🌐 CodeQL | 📅 2026-10-06 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -193,7 +193,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 515,159 | 🐛 107 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 515,369 | 🐛 106 | 📅 2026-09-02
 
 ***
 
