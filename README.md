@@ -57,7 +57,7 @@ Everything you need to install, run, and view CodeQL results locally or in conta
 
 ### CodeQL Installers
 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,246 | 🐛 26 | 🌐 Ruby | 📅 2026-10-09 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/c/codeql.rb) ⭐ 22,246 | 🐛 30 | 🌐 Ruby | 📅 2026-10-10 - Homebrew cask to install the CodeQL CLI `brew install --cask codeql`
 * [github/gh-codeql](https://github.com/github/gh-codeql) ⭐ 45 | 🐛 5 | 🌐 Shell | 📅 2026-09-10 - `gh codeql` GitHub CLI Extension for CodeQL to help manage installation
 * [GitHubSecurityLab/codeql-jupyter-kernel](https://github.com/GitHubSecurityLab/codeql-jupyter-kernel) ⭐ 16 | 🐛 4 | 🌐 Python | 📅 2025-02-26 - Jupyter Kernel for CodeQL
 * [david-wiggs/codeql-anywhere](https://github.com/david-wiggs/codeql-anywhere) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Put the power of CodeQL in your pocket, take it with you to any CI 🚀
@@ -137,7 +137,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ### CodeQL [Packs](https://docs.github.com/en/code-security/codeql-cli/using-the-codeql-cli/publishing-and-using-codeql-packs)
 
 * [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards) ⭐ 229 | 🐛 143 | 🌐 CodeQL | 📅 2026-10-08 - This repository contains CodeQL queries and libraries which support various Coding Standards. (AUTOSAR C++, CERT-C++,CERT C, MISRA C)
-* [GitHubSecurityLab/CodeQL-Community-Packs](https://github.com/GitHubSecurityLab/CodeQL-Community-Packs) ⭐ 223 | 🐛 14 | 🌐 Java | 📅 2026-10-09 - Collection of community-driven CodeQL query, library and extension [packages](https://github.com/orgs/githubsecuritylab/packages). Blog: [Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/)
+* [GitHubSecurityLab/CodeQL-Community-Packs](https://github.com/GitHubSecurityLab/CodeQL-Community-Packs) ⭐ 224 | 🐛 14 | 🌐 Java | 📅 2026-10-10 - Collection of community-driven CodeQL query, library and extension [packages](https://github.com/orgs/githubsecuritylab/packages). Blog: [Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/)
 * [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries) ⭐ 178 | 🐛 9 | 🌐 CodeQL | 📅 2026-07-13 - CodeQL queries and [packs](https://github.com/orgs/trailofbits/packages?ecosystem=all\&q=repo%3Atrailofbits%2Fcodeql-queries) developed by Trail of Bits
 * [GitHub-maintained packages](https://github.com/orgs/codeql/packages)
 * [green-code-initiative/green-codeql-queries](Green-codeql-queries) - This repository contains CodeQL queries to help build sustenable code.
@@ -155,7 +155,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### Custom Modeling
 
-* [GitHubSecurityLab/CodeQL-Community-Packs](https://github.com/GitHubSecurityLab/CodeQL-Community-Packs/blob/main/configs/default.yml#L19-L25) ⭐ 223 | 🐛 14 | 🌐 Java | 📅 2026-10-09 - GitHub Security Lab model packs
+* [GitHubSecurityLab/CodeQL-Community-Packs](https://github.com/GitHubSecurityLab/CodeQL-Community-Packs/blob/main/configs/default.yml#L19-L25) ⭐ 224 | 🐛 14 | 🌐 Java | 📅 2026-10-10 - GitHub Security Lab model packs
 * [advanced-security/codeql-summarize](https://github.com/advanced-security/codeql-summarize) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-09-28 - CodeQL Summary Generator to generate Models as Data (MaD) from CodeQL databases.
 * [octodemo/vulnerable-pickle-app](https://github.com/octodemo/vulnerable-pickle-app/blob/main/custom-queries/python/dangerous-functions.ql) - Ex: Python Pickle - mapping a custom framework in python
 
@@ -166,7 +166,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 ### CodeQL Query Suites
 
-* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,180 | 🐛 1,474 | 🌐 CodeQL | 📅 2026-10-09 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
+* [codeql/actions](https://github.com/github/codeql/actions/workflows/query-list.yml?query=branch%3Acodeql-cli%2Flatest) ⭐ 10,186 | 🐛 1,475 | 🌐 CodeQL | 📅 2026-10-09 - GitHub full built-in CodeQL query list - download the attached `code-scanning-query-list.csv` artifact.
 * [securingdev/codeql-query-suites](https://github.com/securingdev/codeql-query-suites/blob/main/.github/configurations/owasp-top-10.qls) ⭐ 5 | 🐛 0 | 📅 2022-09-27 - OWASP Top 10 CWE Only .qls
 * [zbazztian/only-critical-queries](https://github.com/zbazztian/only-critical-queries/blob/main/.github/critical-alternative.qls) - Only Critical Queries sample .qls
 
@@ -174,7 +174,7 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 
 * [advanced-security/codeql-extractor-iac](https://github.com/advanced-security/codeql-extractor-iac) ⭐ 62 | 🐛 21 | 🌐 CodeQL | 📅 2026-10-09 - CodeQL Extractors, Library, and Queries for Infrastructure as Code ( Terraform / HCL, JSON, YAML, Container files, Bicep )
 * [CoinFabrik/CyScout](https://github.com/CoinFabrik/CyScout/tree/main/solidity/codeql) ⭐ 57 | 🐛 1 | 🌐 CodeQL | 📅 2024-10-25 - CyScout Solidity Extractor: Run queries and detect vulnerabilities in your smart contracts using CodeQL-Solidity
-* [microsoft/codeql](https://github.com/microsoft/codeql/blob/main/powershell/README.md) ⭐ 27 | 🐛 44 | 🌐 C# | 📅 2026-09-29 - Microsoft CodeQL Powershell extractor, sample queries, and tools
+* [microsoft/codeql](https://github.com/microsoft/codeql/blob/main/powershell/README.md) ⭐ 28 | 🐛 44 | 🌐 C# | 📅 2026-09-29 - Microsoft CodeQL Powershell extractor, sample queries, and tools
 * [codeql-kaleidoscope](https://github.com/aibaars/codeql-kaleidoscope/) ⭐ 11 | 🐛 4 | 🌐 CodeQL | 📅 2024-07-31 - CodeQL for LLVM Kaleidoscope ([AST/CFG/SSA/Dataflow in separate commits](https://github.com/aibaars/codeql-kaleidoscope/commits/main/) ⭐ 11 | 🐛 4 | 🌐 CodeQL | 📅 2024-07-31)
 * [krisds/cobol-codeql](https://github.com/krisds/cobol-codeql) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2020-02-02 - Archive of CodeQL support for COBOL (This is a one-off release of code for supporting analysis of COBOL programs using QL. The release of this code does not imply any intention to support it in the future.)
 * [advanced-security/codeql-sap-js](https://github.com/advanced-security/codeql-sap-js) ⭐ 8 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-09 - CodeQL extractor/queries/models for SAP JavaScript frameworks CAP, UI5 and XSJS
@@ -184,8 +184,8 @@ Resources for extending CodeQL, creating packs, and using custom queries.
 ## Troubleshooting
 
 * [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards/blob/main/docs/user_manual.md#hazard-and-risk-analysis) ⭐ 229 | 🐛 143 | 🌐 CodeQL | 📅 2026-10-08 - CodeQL Coding Standards - Hazard and risk analysis
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 4 | 🌐 Shell | 📅 2026-10-01 - CodeQL Build Failure Troubleshooting
-* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 4 | 🌐 Shell | 📅 2026-10-01 - GitHub SARIF Upload Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/tree/main/troubleshooting/codeql-builds) ⭐ 80 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - CodeQL Build Failure Troubleshooting
+* [advanced-security/advanced-security-material](https://github.com/advanced-security/advanced-security-material/blob/main/troubleshooting/sarif-upload/troubleshooting.md) ⭐ 80 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - GitHub SARIF Upload Troubleshooting
 
 ## Contribute
 
@@ -193,8 +193,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Why
 
-[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 516,762 | 🐛 106 | 📅 2026-09-02
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 517,207 | 🐛 106 | 📅 2026-09-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
