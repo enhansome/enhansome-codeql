@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-13T00:23:40Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-13T22:55:16Z",
+                "open_issues": 33,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22248,
+                "stars": 22250,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -481,11 +481,11 @@
                     "id": 1104132811,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T07:12:34Z",
+                    "last_commit": "2026-10-13T11:14:26Z",
                     "open_issues": 9,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -502,7 +502,7 @@
                 "open_issues": 25,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 266,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -523,7 +523,7 @@
                 "open_issues": 4,
                 "owner": "JordyZomer",
                 "repo": "codeql-mcp",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -599,7 +599,7 @@
                 "open_issues": 79,
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
-                "stars": 493,
+                "stars": 492,
                 "topics": [
                   "badge",
                   "badge-generator",
@@ -1031,7 +1031,7 @@
                 "open_issues": 143,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "autosar",
                   "cert",
@@ -1062,7 +1062,7 @@
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "codeql"
                 ]
@@ -1215,7 +1215,7 @@
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "codeql"
                 ]
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:18:53Z",
-                "open_issues": 1478,
+                "last_commit": "2026-10-13T13:36:16Z",
+                "open_issues": 1479,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10192,
+                "stars": 10199,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1345,8 +1345,8 @@
                 "id": 677044828,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-09T13:09:29Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-13T15:43:52Z",
+                "open_issues": 22,
                 "owner": "advanced-security",
                 "repo": "codeql-extractor-iac",
                 "stars": 62,
@@ -1457,8 +1457,8 @@
                 "id": 655754626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:22:57Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-13T22:25:44Z",
+                "open_issues": 20,
                 "owner": "advanced-security",
                 "repo": "codeql-sap-js",
                 "stars": 8,
@@ -1535,7 +1535,7 @@
             "open_issues": 143,
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "autosar",
               "cert",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:53:53.215Z",
+    "last_updated": "2026-10-13T22:59:38.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
