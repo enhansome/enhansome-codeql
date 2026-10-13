@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2841,
+                "stars": 2842,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-11T22:15:41Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-13T00:23:40Z",
+                "open_issues": 27,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22249,
+                "stars": 22248,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -237,7 +237,7 @@
                 "open_issues": 4,
                 "owner": "GitHubSecurityLab",
                 "repo": "gh-mrva",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "gh-extension"
                 ]
@@ -485,7 +485,7 @@
                     "open_issues": 9,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -502,7 +502,7 @@
                 "open_issues": 25,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -540,8 +540,8 @@
                 "id": 1098729265,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:49:06Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-12T14:12:26Z",
+                "open_issues": 8,
                 "owner": "advanced-security",
                 "repo": "codeql-development-template",
                 "stars": 12,
@@ -1058,11 +1058,11 @@
                 "id": 691021920,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-10T02:45:22Z",
+                "last_commit": "2026-10-12T14:47:15Z",
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "codeql"
                 ]
@@ -1211,11 +1211,11 @@
                 "id": 691021920,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-10T02:45:22Z",
+                "last_commit": "2026-10-12T14:47:15Z",
                 "open_issues": 14,
                 "owner": "GitHubSecurityLab",
                 "repo": "CodeQL-Community-Packs",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "codeql"
                 ]
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-11T15:04:28Z",
-                "open_issues": 1476,
+                "last_commit": "2026-10-12T15:18:53Z",
+                "open_issues": 1478,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10189,
+                "stars": 10192,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:15:55.680Z",
+    "last_updated": "2026-10-13T00:53:53.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
