@@ -51,7 +51,7 @@
                 "open_issues": 3,
                 "owner": "skills",
                 "repo": "introduction-to-codeql",
-                "stars": 160,
+                "stars": 162,
                 "topics": [
                   "skills-course"
                 ]
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-16T21:27:12Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-17T19:35:47Z",
+                "open_issues": 43,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22257,
+                "stars": 22258,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -599,7 +599,7 @@
                 "open_issues": 79,
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
-                "stars": 492,
+                "stars": 491,
                 "topics": [
                   "badge",
                   "badge-generator",
@@ -702,8 +702,8 @@
                 "id": 577956323,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T17:59:04Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-17T11:04:25Z",
+                "open_issues": 16,
                 "owner": "advanced-security",
                 "repo": "dismiss-alerts",
                 "stars": 23,
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:01:21Z",
-                "open_issues": 1477,
+                "last_commit": "2026-10-17T10:38:50Z",
+                "open_issues": 1476,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10202,
+                "stars": 10205,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:29:26.837Z",
+    "last_updated": "2026-10-17T20:48:05.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
