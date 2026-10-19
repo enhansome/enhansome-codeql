@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2843,
+                "stars": 2844,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-18T19:28:34Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-19T22:30:35Z",
+                "open_issues": 35,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22259,
+                "stars": 22261,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -363,7 +363,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "codeql-container",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "codeql",
                   "codeql-cli",
@@ -442,7 +442,7 @@
                 "id": 347270006,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-14T01:34:32Z",
+                "last_commit": "2026-10-19T19:28:49Z",
                 "open_issues": 21,
                 "owner": "psastras",
                 "repo": "sarif-rs",
@@ -481,11 +481,11 @@
                     "id": 1104132811,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T16:25:39Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-10-19T06:57:49Z",
+                    "open_issues": 9,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -502,7 +502,7 @@
                 "open_issues": 24,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 274,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -523,7 +523,7 @@
                 "open_issues": 4,
                 "owner": "JordyZomer",
                 "repo": "codeql-mcp",
-                "stars": 148,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -540,8 +540,8 @@
                 "id": 1098729265,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-12T14:12:26Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-19T04:52:32Z",
+                "open_issues": 10,
                 "owner": "advanced-security",
                 "repo": "codeql-development-template",
                 "stars": 12,
@@ -599,7 +599,7 @@
                 "open_issues": 79,
                 "owner": "MichaelCurrin",
                 "repo": "badge-generator",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "badge",
                   "badge-generator",
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:38:50Z",
-                "open_issues": 1477,
+                "last_commit": "2026-10-19T14:13:28Z",
+                "open_issues": 1472,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10209,
+                "stars": 10214,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:57:32.116Z",
+    "last_updated": "2026-10-19T22:32:47.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
