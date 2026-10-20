@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2844,
+                "stars": 2845,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-19T22:30:35Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-20T21:46:47Z",
+                "open_issues": 33,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22261,
+                "stars": 22263,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -485,7 +485,7 @@
                     "open_issues": 9,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 87,
+                    "stars": 86,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -702,7 +702,7 @@
                 "id": 577956323,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T11:04:25Z",
+                "last_commit": "2026-10-20T14:46:09Z",
                 "open_issues": 16,
                 "owner": "advanced-security",
                 "repo": "dismiss-alerts",
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:13:28Z",
-                "open_issues": 1472,
+                "last_commit": "2026-10-20T20:02:55Z",
+                "open_issues": 1483,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10214,
+                "stars": 10220,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1394,7 +1394,7 @@
                 "id": 566523451,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-29T19:15:21Z",
+                "last_commit": "2026-10-20T20:14:39Z",
                 "open_issues": 44,
                 "owner": "microsoft",
                 "repo": "codeql",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:32:47.638Z",
+    "last_updated": "2026-10-20T21:47:03.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
