@@ -17,7 +17,7 @@
                 "id": 617044081,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:57:39Z",
+                "last_commit": "2026-11-01T05:53:29Z",
                 "open_issues": 15,
                 "owner": "skills",
                 "repo": "secure-code-game",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-31T21:43:48Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-01T22:14:23Z",
+                "open_issues": 31,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22275,
+                "stars": 22280,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -502,7 +502,7 @@
                 "open_issues": 28,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1291,10 +1291,10 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-10-30T23:10:06Z",
-                "open_issues": 1505,
+                "open_issues": 1507,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10282,
+                "stars": 10289,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:46:47.666Z",
+    "last_updated": "2026-11-01T22:14:47.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
