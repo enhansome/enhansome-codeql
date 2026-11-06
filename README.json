@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2857,
+                "stars": 2858,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -74,7 +74,7 @@
                 "open_issues": 22,
                 "owner": "trailofbits",
                 "repo": "testing-handbook",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-05T23:26:17Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-06T23:21:18Z",
+                "open_issues": 40,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22284,
+                "stars": 22286,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -442,11 +442,11 @@
                 "id": 347270006,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:28:59Z",
+                "last_commit": "2026-11-06T19:35:28Z",
                 "open_issues": 21,
                 "owner": "psastras",
                 "repo": "sarif-rs",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "cli",
                   "clippy",
@@ -485,7 +485,7 @@
                     "open_issues": 8,
                     "owner": "GitHubSecurityLab",
                     "repo": "seclab-taskflows",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:49:33.655Z"
@@ -498,8 +498,8 @@
                 "id": 1052954255,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T09:20:58Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-06T21:46:15Z",
+                "open_issues": 30,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
                 "stars": 284,
@@ -937,7 +937,7 @@
                 "id": 878571502,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T00:36:49Z",
+                "last_commit": "2026-11-06T00:30:39Z",
                 "open_issues": 6,
                 "owner": "advanced-security",
                 "repo": "sample-javascript-monorepo",
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-11-05T22:48:11Z",
-                "open_issues": 1515,
+                "last_commit": "2026-11-06T16:54:13Z",
+                "open_issues": 1523,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10318,
+                "stars": 10323,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:45:47.008Z",
+    "last_updated": "2026-11-06T23:22:53.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
