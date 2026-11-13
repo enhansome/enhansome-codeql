@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2859,
+                "stars": 2860,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-12T23:39:42Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-13T23:44:40Z",
+                "open_issues": 45,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22294,
+                "stars": 22297,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -502,7 +502,7 @@
                 "open_issues": 30,
                 "owner": "GitHubSecurityLab",
                 "repo": "seclab-taskflow-agent",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -937,7 +937,7 @@
                 "id": 878571502,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:30:39Z",
+                "last_commit": "2026-11-13T00:30:05Z",
                 "open_issues": 6,
                 "owner": "advanced-security",
                 "repo": "sample-javascript-monorepo",
@@ -1027,7 +1027,7 @@
                 "id": 513154248,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-11-11T14:02:38Z",
+                "last_commit": "2026-11-13T19:15:56Z",
                 "open_issues": 149,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
@@ -1290,11 +1290,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-11-12T21:16:45Z",
-                "open_issues": 1545,
+                "last_commit": "2026-11-13T17:42:53Z",
+                "open_issues": 1537,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10345,
+                "stars": 10349,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1394,7 +1394,7 @@
                 "id": 566523451,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-12T23:01:57Z",
+                "last_commit": "2026-11-13T17:29:18Z",
                 "open_issues": 43,
                 "owner": "microsoft",
                 "repo": "codeql",
@@ -1507,6 +1507,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[peter-villadsen/codeql-ada] (https://github.com/peter-villadsen/codeql-ada",
+              "description": ") - ) - Ada extractor built on AdaCore's Libadalang, with a database schema, a QL library (control flow, data flow, taint tracking) and a set of useful queries. It needs no build or compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CodeQL support for the ada language",
+                "homepage": null,
+                "id": 1288400859,
+                "language": "CodeQL",
+                "license": "MIT",
+                "last_commit": "2026-11-11T00:41:16Z",
+                "open_issues": 9,
+                "owner": "peter-villadsen",
+                "repo": "codeql-ada",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-13T23:45:58.822Z"
             }
           ],
           "description": null,
@@ -1531,7 +1552,7 @@
             "id": 513154248,
             "language": "CodeQL",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:02:38Z",
+            "last_commit": "2026-11-13T19:15:56Z",
             "open_issues": 149,
             "owner": "github",
             "repo": "codeql-coding-standards",
@@ -1609,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:45:16.688Z",
+    "last_updated": "2026-11-13T23:45:58.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
@@ -1617,8 +1638,8 @@
       "id": 611843955,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-25T13:00:32Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-13T13:54:55Z",
+      "open_issues": 1,
       "owner": "advanced-security",
       "repo": "awesome-codeql",
       "stars": 96,
@@ -1628,7 +1649,7 @@
         "github-advanced-security"
       ]
     },
-    "original_repository_sha": "1bbe9508c30c0e397474d9ddb1b1cb9e82fbd933",
+    "original_repository_sha": "57e3bffaa7022e109be0c47a997cefdffd6a6f0e",
     "enhanced_repository": "enhansome/enhansome-codeql",
     "enhanced_repository_description": null,
     "title": "Awesome Codeql with stars"
