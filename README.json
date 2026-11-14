@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "skills",
                 "repo": "secure-code-game",
-                "stars": 2860,
+                "stars": 2861,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -104,11 +104,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-13T23:44:40Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-14T22:36:14Z",
+                "open_issues": 31,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22297,
+                "stars": 22298,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -1031,7 +1031,7 @@
                 "open_issues": 149,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "autosar",
                   "cert",
@@ -1291,10 +1291,10 @@
                 "language": "CodeQL",
                 "license": "MIT",
                 "last_commit": "2026-11-13T17:42:53Z",
-                "open_issues": 1537,
+                "open_issues": 1539,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10349,
+                "stars": 10350,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1556,7 +1556,7 @@
             "open_issues": 149,
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "autosar",
               "cert",
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:45:58.822Z",
+    "last_updated": "2026-11-14T22:39:20.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
