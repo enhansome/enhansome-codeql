@@ -107,11 +107,11 @@
                 "id": 3623050,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-20T22:56:03Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-21T23:15:23Z",
+                "open_issues": 28,
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22312,
+                "stars": 22314,
                 "topics": [
                   "cask",
                   "hacktoberfest",
@@ -709,7 +709,7 @@
                 "open_issues": 17,
                 "owner": "advanced-security",
                 "repo": "dismiss-alerts",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "code-scanning",
                   "code-security",
@@ -1034,7 +1034,7 @@
                 "open_issues": 153,
                 "owner": "github",
                 "repo": "codeql-coding-standards",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "autosar",
                   "cert",
@@ -1241,7 +1241,7 @@
                 "open_issues": 2,
                 "owner": "advanced-security",
                 "repo": "codeql-summarize",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1293,11 +1293,11 @@
                 "id": 143040428,
                 "language": "CodeQL",
                 "license": "MIT",
-                "last_commit": "2026-11-20T20:00:20Z",
-                "open_issues": 1537,
+                "last_commit": "2026-11-21T10:09:48Z",
+                "open_issues": 1539,
                 "owner": "github",
                 "repo": "codeql",
-                "stars": 10391,
+                "stars": 10393,
                 "topics": [
                   "codeql",
                   "github-advanced-security",
@@ -1324,7 +1324,7 @@
                 "open_issues": 0,
                 "owner": "securingdev",
                 "repo": "codeql-query-suites",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:49:33.655Z"
@@ -1559,7 +1559,7 @@
             "open_issues": 153,
             "owner": "github",
             "repo": "codeql-coding-standards",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "autosar",
               "cert",
@@ -1586,7 +1586,7 @@
             "id": 417247050,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-07T21:42:52Z",
+            "last_commit": "2026-11-21T21:42:27Z",
             "open_issues": 6,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
@@ -1613,7 +1613,7 @@
             "id": 417247050,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-07T21:42:52Z",
+            "last_commit": "2026-11-21T21:42:27Z",
             "open_issues": 6,
             "owner": "advanced-security",
             "repo": "advanced-security-material",
@@ -1633,7 +1633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:06:02.417Z",
+    "last_updated": "2026-11-21T23:30:55.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CodeQL resources.",
